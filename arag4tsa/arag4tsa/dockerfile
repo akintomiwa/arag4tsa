@@ -1,0 +1,7 @@
+# FROM ubuntu:latest 
+# build, test, sdeploy stages 
+
+# build 
+# clone repo
+# install poetry
+# restablish environment from poetry lockfile 
